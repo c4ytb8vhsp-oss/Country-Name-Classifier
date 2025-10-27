@@ -1,0 +1,116 @@
+text,label,test_type,predicted,confidence
+US Treasury Bond,0,financial_critical,0,0.9998642206192017
+US Treasury 10 Year,0,financial_critical,0,0.9998056292533875
+United States Government Bond,0,financial_critical,0,0.9998656511306763
+Korea Government Bond,0,financial_critical,0,0.9998669624328613
+Korean Treasury,0,financial_critical,0,0.9998602867126465
+South Korea Sovereign Bond,0,financial_critical,0,0.9998670816421509
+Japan Government Bond,0,financial_critical,0,0.9998692274093628
+Japanese Government Securities,0,financial_critical,0,0.9998654127120972
+German Bund,0,financial_critical,0,0.8937336206436157
+Germany Government Bond,0,financial_critical,0,0.9998688697814941
+UK Gilt,0,financial_critical,0,0.9994739890098572
+United Kingdom Government Bond,0,financial_critical,0,0.999869704246521
+Korea Deposit,0,financial_critical,0,0.9998641014099121
+Korean Won Deposit,0,financial_critical,0,0.9998499155044556
+US Dollar Deposit,0,financial_critical,0,0.9998664855957031
+Euro Deposit,0,financial_critical,0,0.9998613595962524
+Japan Yen Deposit,0,financial_critical,0,0.999866247177124
+Korean Won,0,financial_critical,1,0.9936309456825256
+US Dollar,0,financial_critical,0,0.9998420476913452
+Euro Currency,0,financial_critical,0,0.9998574256896973
+Japan Yen,0,financial_critical,0,0.9998018145561218
+Brazil Sovereign Debt,0,financial_critical,0,0.9998606443405151
+Mexico Sovereign Bond,0,financial_critical,0,0.9998685121536255
+India Sovereign Securities,0,financial_critical,0,0.9998626708984375
+United States,1,financial_critical,1,0.9998575448989868
+United States of America,1,financial_critical,1,0.9998927116394043
+Korea,1,financial_critical,1,0.9998654127120972
+South Korea,1,financial_critical,1,0.9998719692230225
+Republic of Korea,1,financial_critical,1,0.9998961687088013
+Japan,1,financial_critical,1,0.9998515844345093
+Germany,1,financial_critical,1,0.9998177886009216
+United Kingdom,1,financial_critical,1,0.9998785257339478
+Brazil,1,financial_critical,1,0.9998629093170166
+Mexico,1,financial_critical,1,0.9998575448989868
+India,1,financial_critical,1,0.9998675584793091
+US,1,financial_critical,1,0.9998446702957153
+US Bond,0,financial_critical,0,0.99986732006073
+US Treasury,0,financial_critical,0,0.9998496770858765
+US Deposit,0,financial_critical,0,0.9998538494110107
+US Note,0,financial_critical,0,0.9998307228088379
+US Bill,0,financial_critical,0,0.9998583793640137
+US Sovereign Bond,0,financial_critical,0,0.9998682737350464
+US Government Bond,0,financial_critical,0,0.9998698234558105
+UK,1,financial_critical,1,0.9997703433036804
+UK Bond,0,financial_critical,0,0.9998637437820435
+UK Treasury,0,financial_critical,0,0.9998433589935303
+UK Deposit,0,financial_critical,0,0.9998617172241211
+UK Note,0,financial_critical,0,0.9998325109481812
+UK Bill,0,financial_critical,0,0.9998561143875122
+UK Sovereign Bond,0,financial_critical,0,0.9998692274093628
+UK Government Bond,0,financial_critical,0,0.9998691082000732
+Germany,1,financial_critical,1,0.9998177886009216
+Germany Bond,0,financial_critical,0,0.9998683929443359
+Germany Treasury,0,financial_critical,0,0.9998592138290405
+Germany Deposit,0,financial_critical,0,0.9998642206192017
+Germany Note,0,financial_critical,0,0.9998390674591064
+Germany Bill,0,financial_critical,0,0.9998575448989868
+Germany Sovereign Bond,0,financial_critical,0,0.9998681545257568
+Germany Government Bond,0,financial_critical,0,0.9998688697814941
+France,1,financial_critical,1,0.9998279809951782
+France Bond,0,financial_critical,0,0.9998680353164673
+France Treasury,0,financial_critical,0,0.9998588562011719
+France Deposit,0,financial_critical,0,0.9998621940612793
+France Note,0,financial_critical,0,0.9998569488525391
+France Bill,0,financial_critical,0,0.9998620748519897
+France Sovereign Bond,0,financial_critical,0,0.9998685121536255
+France Government Bond,0,financial_critical,0,0.9998701810836792
+Japan,1,financial_critical,1,0.9998515844345093
+Japan Bond,0,financial_critical,0,0.9998661279678345
+Japan Treasury,0,financial_critical,0,0.9998617172241211
+Japan Deposit,0,financial_critical,0,0.9998621940612793
+Japan Note,0,financial_critical,0,0.9998476505279541
+Japan Bill,0,financial_critical,0,0.9998595714569092
+Japan Sovereign Bond,0,financial_critical,0,0.9998680353164673
+Japan Government Bond,0,financial_critical,0,0.9998692274093628
+China,1,financial_critical,1,0.9998692274093628
+China Bond,0,financial_critical,0,0.9998674392700195
+China Treasury,0,financial_critical,0,0.9998656511306763
+China Deposit,0,financial_critical,0,0.999864935874939
+China Note,0,financial_critical,0,0.9998615980148315
+China Bill,0,financial_critical,0,0.9998630285263062
+China Sovereign Bond,0,financial_critical,0,0.9998687505722046
+China Government Bond,0,financial_critical,0,0.9998705387115479
+Korea,1,financial_critical,1,0.9998654127120972
+Korea Bond,0,financial_critical,0,0.9998644590377808
+Korea Treasury,0,financial_critical,0,0.9998620748519897
+Korea Deposit,0,financial_critical,0,0.9998641014099121
+Korea Note,0,financial_critical,0,0.9998538494110107
+Korea Bill,0,financial_critical,0,0.9998571872711182
+Korea Sovereign Bond,0,financial_critical,0,0.9998664855957031
+Korea Government Bond,0,financial_critical,0,0.9998669624328613
+Brazil,1,financial_critical,1,0.9998629093170166
+Brazil Bond,0,financial_critical,0,0.9998674392700195
+Brazil Treasury,0,financial_critical,0,0.9998610019683838
+Brazil Deposit,0,financial_critical,0,0.9998660087585449
+Brazil Note,0,financial_critical,0,0.9998533725738525
+Brazil Bill,0,financial_critical,0,0.9998607635498047
+Brazil Sovereign Bond,0,financial_critical,0,0.9998677968978882
+Brazil Government Bond,0,financial_critical,0,0.9998704195022583
+India,1,financial_critical,1,0.9998675584793091
+India Bond,0,financial_critical,0,0.9998658895492554
+India Treasury,0,financial_critical,0,0.9998613595962524
+India Deposit,0,financial_critical,0,0.9998629093170166
+India Note,0,financial_critical,0,0.9998515844345093
+India Bill,0,financial_critical,0,0.9998562335968018
+India Sovereign Bond,0,financial_critical,0,0.9998667240142822
+India Government Bond,0,financial_critical,0,0.9998691082000732
+Canada,1,financial_critical,1,0.9998557567596436
+Canada Bond,0,financial_critical,0,0.9998656511306763
+Canada Treasury,0,financial_critical,0,0.9998525381088257
+Canada Deposit,0,financial_critical,0,0.9998631477355957
+Canada Note,0,financial_critical,0,0.9998555183410645
+Canada Bill,0,financial_critical,0,0.9998579025268555
+Canada Sovereign Bond,0,financial_critical,0,0.9998669624328613
+Canada Government Bond,0,financial_critical,0,0.99986732006073

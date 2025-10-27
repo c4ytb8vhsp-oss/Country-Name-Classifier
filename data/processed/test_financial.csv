@@ -1,0 +1,116 @@
+text,label,test_type
+US Treasury Bond,0,financial_critical
+US Treasury 10 Year,0,financial_critical
+United States Government Bond,0,financial_critical
+Korea Government Bond,0,financial_critical
+Korean Treasury,0,financial_critical
+South Korea Sovereign Bond,0,financial_critical
+Japan Government Bond,0,financial_critical
+Japanese Government Securities,0,financial_critical
+German Bund,0,financial_critical
+Germany Government Bond,0,financial_critical
+UK Gilt,0,financial_critical
+United Kingdom Government Bond,0,financial_critical
+Korea Deposit,0,financial_critical
+Korean Won Deposit,0,financial_critical
+US Dollar Deposit,0,financial_critical
+Euro Deposit,0,financial_critical
+Japan Yen Deposit,0,financial_critical
+Korean Won,0,financial_critical
+US Dollar,0,financial_critical
+Euro Currency,0,financial_critical
+Japan Yen,0,financial_critical
+Brazil Sovereign Debt,0,financial_critical
+Mexico Sovereign Bond,0,financial_critical
+India Sovereign Securities,0,financial_critical
+United States,1,financial_critical
+United States of America,1,financial_critical
+Korea,1,financial_critical
+South Korea,1,financial_critical
+Republic of Korea,1,financial_critical
+Japan,1,financial_critical
+Germany,1,financial_critical
+United Kingdom,1,financial_critical
+Brazil,1,financial_critical
+Mexico,1,financial_critical
+India,1,financial_critical
+US,1,financial_critical
+US Bond,0,financial_critical
+US Treasury,0,financial_critical
+US Deposit,0,financial_critical
+US Note,0,financial_critical
+US Bill,0,financial_critical
+US Sovereign Bond,0,financial_critical
+US Government Bond,0,financial_critical
+UK,1,financial_critical
+UK Bond,0,financial_critical
+UK Treasury,0,financial_critical
+UK Deposit,0,financial_critical
+UK Note,0,financial_critical
+UK Bill,0,financial_critical
+UK Sovereign Bond,0,financial_critical
+UK Government Bond,0,financial_critical
+Germany,1,financial_critical
+Germany Bond,0,financial_critical
+Germany Treasury,0,financial_critical
+Germany Deposit,0,financial_critical
+Germany Note,0,financial_critical
+Germany Bill,0,financial_critical
+Germany Sovereign Bond,0,financial_critical
+Germany Government Bond,0,financial_critical
+France,1,financial_critical
+France Bond,0,financial_critical
+France Treasury,0,financial_critical
+France Deposit,0,financial_critical
+France Note,0,financial_critical
+France Bill,0,financial_critical
+France Sovereign Bond,0,financial_critical
+France Government Bond,0,financial_critical
+Japan,1,financial_critical
+Japan Bond,0,financial_critical
+Japan Treasury,0,financial_critical
+Japan Deposit,0,financial_critical
+Japan Note,0,financial_critical
+Japan Bill,0,financial_critical
+Japan Sovereign Bond,0,financial_critical
+Japan Government Bond,0,financial_critical
+China,1,financial_critical
+China Bond,0,financial_critical
+China Treasury,0,financial_critical
+China Deposit,0,financial_critical
+China Note,0,financial_critical
+China Bill,0,financial_critical
+China Sovereign Bond,0,financial_critical
+China Government Bond,0,financial_critical
+Korea,1,financial_critical
+Korea Bond,0,financial_critical
+Korea Treasury,0,financial_critical
+Korea Deposit,0,financial_critical
+Korea Note,0,financial_critical
+Korea Bill,0,financial_critical
+Korea Sovereign Bond,0,financial_critical
+Korea Government Bond,0,financial_critical
+Brazil,1,financial_critical
+Brazil Bond,0,financial_critical
+Brazil Treasury,0,financial_critical
+Brazil Deposit,0,financial_critical
+Brazil Note,0,financial_critical
+Brazil Bill,0,financial_critical
+Brazil Sovereign Bond,0,financial_critical
+Brazil Government Bond,0,financial_critical
+India,1,financial_critical
+India Bond,0,financial_critical
+India Treasury,0,financial_critical
+India Deposit,0,financial_critical
+India Note,0,financial_critical
+India Bill,0,financial_critical
+India Sovereign Bond,0,financial_critical
+India Government Bond,0,financial_critical
+Canada,1,financial_critical
+Canada Bond,0,financial_critical
+Canada Treasury,0,financial_critical
+Canada Deposit,0,financial_critical
+Canada Note,0,financial_critical
+Canada Bill,0,financial_critical
+Canada Sovereign Bond,0,financial_critical
+Canada Government Bond,0,financial_critical
